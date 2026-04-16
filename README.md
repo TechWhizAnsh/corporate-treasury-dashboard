@@ -31,6 +31,9 @@ A Streamlit-based dashboard for corporate treasury management using real financi
 
 ## Dashboard Components
 
+![Screenshot of Corporate Treasury Dashboard](CorporateTreasuryDashboard.jpg)
+*Figure 1: Corporate Treasury Dashboard Main View*
+
 ### Key Metrics
 - Total Cash Position (USD billions)
 - Total Debt (USD billions)
